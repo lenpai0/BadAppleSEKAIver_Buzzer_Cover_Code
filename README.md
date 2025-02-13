@@ -4,7 +4,7 @@ Song: [Bad Apple!! feat.SEKAI / 25時、ナイトコードで。 × 初音ミク
 
 ![bad apple small](https://github.com/user-attachments/assets/0cd2797c-ee32-4ac6-9cf4-b14e79e745a7)
 
-I love this cover a lot. Me being a huge miku fan and the ability to program a microcontroller, I decided to join the bad apple screen meme but instead do the project sekai cover of it. I found someone on youtube who made an amazing marasy piano cover and purchased their [music sheet](https://musashititech18.booth.pm/items/5874309). This branch only includes the main melody buzzer code. I also made the 2dMV to play on an oled display to go along with the buzzer.  I will upload the whole code at some point and update this to reflect on that. Also, I hand coded each note one by one.
+I love this cover a lot. Me being a huge miku fan and the ability to program a microcontroller, I decided to join the bad apple screen meme but instead do the project sekai cover of it. I found someone on youtube who made an amazing marasy piano cover by @Sapphire_Titech and purchased their [music sheet](https://musashititech18.booth.pm/items/5874309). This branch only includes the main melody buzzer code. I also made the 2dMV to play on an oled display to go along with the buzzer.  I will upload the whole code at some point and update this to reflect on that. Also, I hand coded each note one by one.
 
 ## Intro
 
@@ -18,15 +18,14 @@ This program uses pin 8 as the buzzer pin but it can be changed to any other GPI
 
 ![image](https://github.com/user-attachments/assets/d1a5fd0b-2071-45e7-b3b1-33bd92948a3a)
 
-Pay attention if your buzzer has polarity ('+' mark at the top). Some buzzers have them, mine doesn't and I have no clue why. If it does have polarity, make sure that the '+' side pin is connected to Arduino pin. Otherwise, it doesn't which pin goes where.
+Pay attention if your buzzer has polarity ('+' mark at the top). Some buzzers have them, mine doesn't and I have no idea why. If it does have polarity, make sure that the '+' side pin is connected to Arduino pin. Otherwise, it doesn't matter which pin goes where.
 
 ### Uploading Sketch
 Download the BadAppleSEKAIver.ino file. I squished all the code together into one file so you don't have to worry about finding extra files. 
 
-Line 48 is where you can change the buzzer pin.
+Line 42 is where you can change the buzzer pin.
 
-![image](https://github.com/user-attachments/assets/a735ad76-bc59-4caf-8d06-0b8aae942573)
-
+![image](https://github.com/user-attachments/assets/75937c33-053e-45ad-a7c6-53057ce6ff4e)
 
 Select the board you are using and upload the code. 
 
