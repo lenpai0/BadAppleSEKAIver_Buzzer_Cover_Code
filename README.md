@@ -4,7 +4,7 @@ Song: [Bad Apple!! feat.SEKAI / 25時、ナイトコードで。 × 初音ミク
 
 ![bad apple small](https://github.com/user-attachments/assets/0cd2797c-ee32-4ac6-9cf4-b14e79e745a7)
 
-I love this cover a lot. Me being a huge miku fan and the ability to program a microcontroller, I decided to make a buzzer cover of it. I found someone on youtube who made an amazing marasy piano cover by @Sapphire_Titech and purchased their [music sheet](https://musashititech18.booth.pm/items/5874309) to use as reference. I painstaking hand coded each note one by one.
+I love this cover a lot. Me being a huge miku fan and the ability to program a microcontroller, I decided to make a buzzer cover of it. I found someone on youtube who made an amazing marasy piano cover by @Sapphire_Titech and purchased their [sheet music](https://musashititech18.booth.pm/items/5874309) to use as reference. I painstaking hand coded each note one by one.
 
 This branch only includes the main melody buzzer code. I also made the 2dMV to play on an oled display to go along with the buzzer and I will upload the whole code at some point and update this to reflect on that. 
 
@@ -37,6 +37,7 @@ Select the board you are using and upload the code.
 
 ### Playing the music
 As soon as you upload the code you should hear music playing. To play the melody again, press the reset button on the board
+
 [Bad Apple!! feat.SEKAI Buzzer Cover Code Demo]
 
 ### Extra
@@ -44,9 +45,10 @@ You can also wire an LED and resistor parallel to buzzer to visually see the not
 ![image](https://github.com/user-attachments/assets/7477a227-0d0c-40a9-8918-f073a09f5d4d)
 
 [another video with led attach to the buzzer]
+
 ## Resources used
 * Bought the piano cover sheet music from: https://www.youtube.com/watch?v=VVsgW76z00o
 * Partial code borrowed from: https://github.com/robsoncouto/arduino-songs/tree/master
 
 ## Usage
-This is an open source project. If you find yourself using this code to add to your project or posting a video/tutorial with it, I simply ask that you credit me @lenpai0 and provide a link to this page. Thanks and enjoy!
+This is an open source project. If you find yourself using this code to add to your project or make a video/tutorial with it, I simply ask that you credit me @lenpai0 and provide a link to this page. Thanks and enjoy!
