@@ -43,7 +43,7 @@ Select the board you are using and upload the code.
 ![upload img](https://github.com/user-attachments/assets/bd9fcec6-3323-4015-bd55-576d37b8302f)
 
 ### Playing the music
-As soon as you upload the code you should hear music playing. To play the melody again, press the reset button on the board.
+As soon as you upload the code you should hear music playing. To play the melody again, press the RESET button on the board. Here is a video demostrating what it should look like:
 
 [![YouTube](http://i.ytimg.com/vi/idRYm0s9MTA/hqdefault.jpg)](https://www.youtube.com/watch?v=idRYm0s9MTA)
 
