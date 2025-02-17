@@ -30,7 +30,7 @@ Download the ZIP file and extract with your preferred method of choice. You can 
 
 ![bad apple download instruct](https://github.com/user-attachments/assets/50a89756-d23c-433c-9055-c486a4361f91)
 
-Open the BadAppleSEKAIver.ino and select OK
+Open BadAppleSEKAIver.ino and select OK
 
 ![image](https://github.com/user-attachments/assets/66ae8d36-18d3-4f1b-bb59-e6bd5c285580)
 
